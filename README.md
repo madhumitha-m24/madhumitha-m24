@@ -11,15 +11,22 @@
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Building+Real-World+Systems;VLSI+%7C+FPGA+%7C+SoC+Engineer;RTL+Microarchitecture+%26+Timing;SDR+%26+Embedded+DSP+Systems" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%26+Firmware+Developer;FPGA+Prototyping+%7C+Verilog+RTL+Design;Real-Time+Hardware-Software+Integration" alt="Typing Header" />
   </a>
 </p>
 
-<!-- HARDWARE SPECIFICATION BADGES -->
+<!-- PROFILE BADGES & QUICK LINKS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/languages-Verilog%20%7C%20SystemVerilog%20%7C%20C%20%7C%20C++%20%7C%20Python-1e293b?style=flat&logo=codeforces&logoColor=38bdf8&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/eda%20%26%20hardware-Vivado%20%7C%20Yosys%20%7C%20ModelSim%20%7C%20GTKWave-1e293b?style=flat&logo=amd&logoColor=60a5fa&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/dsp%20%26%20sdr-GNU%20Radio%20%7C%20ADALM--PLUTO-1e293b?style=flat&logo=cpu&logoColor=a78bfa&labelColor=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=madhumitha-m24&style=flat-square&color=38bdf8" alt="Profile Views" />
+  <a href="https://linkedin.com/in/m.madhumitha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/madhumitha-m24" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:m.madhumitha2403@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
@@ -28,38 +35,71 @@
 
 ### 01 / ABOUT
 
-Hardware systems engineer specializing in register-transfer level (RTL) microarchitecture, FPGA timing optimization, Software Defined Radio (SDR) signal processing, and embedded hardware-software integration.
+Electronics & Communication Engineering undergraduate at **Amrita Vishwa Vidyapeetham, Bengaluru** (CGPA: 8.07/10) with specialized expertise in embedded systems architecture, FPGA-based digital logic design, and real-time hardware-software integration. Experienced in delivering production-grade Embedded C firmware, Verilog/SystemVerilog RTL, sensor interfacing pipelines, and closed-loop control systems.
 
-Work spans SystemVerilog SoC interconnect design, asynchronous FIFO clock-domain crossing (CDC) controllers, real-time 64-PSK wireless transceivers, and autonomous robotics FSM micro-engines.
+* **Core Disciplines:** Embedded Systems Design, FPGA Prototyping, Verilog/SystemVerilog RTL Architecture, Real-Time HW/SW Integration.
+* **Hardware & Firmware:** STM32 (ARM Cortex-M), ESP32, Bare-Metal Embedded C, Basys-3 & Artix-7 FPGAs, Clock Domain Crossing (CDC), Sensor Interfacing (ADC, PWM, Timers, UART, SPI, I2C).
+* **Industry Experience:**
+  * **Samsung PRISM — Virtual Intern** *(Dec 2025 – May 2026)*: Engineered FPGA-based adaptive PID control with real-time disturbance rejection in Verilog for autonomous mobile robotics with ESP32 wireless telemetry.
+  * **EMERTXE — Embedded Systems Intern** *(June – July 2026)*: Developed real-time EV dynamics telemetry, ADAS obstacle detection, and sensor fault handling firmware on STM32F103C8T6.
+* **Research & Publications:** Published at **IEEE IITCEE 2026** — proposed an optimized ensemble machine learning framework for multiclass clinical prediction, benchmarking eight classifiers to achieve 99.41% accuracy and F1-score.
+* **Engineering Philosophy:** Focused on building robust, deterministic, and timing-accurate digital hardware and embedded firmware solutions for mission-critical electronic products.
+* **Professional Engagement:** Open to technical roles in Embedded Systems Engineering, FPGA/RTL Microarchitecture, and Hardware-Software Co-Design.
 
 ──────────────
 
-### 02 / SKILLS
+### 02 / TECH STACK
 
-*(Derived strictly from verified hardware and systems project repositories)*
+<p align="center"><strong>Core Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-002B49?style=flat-square" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/Embedded_C-283593?style=flat-square" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
-```
-├── 💻 Languages
-│   ├── SystemVerilog (IEEE 1800)
-│   ├── Verilog HDL
-│   ├── C / C++
-│   └── Python
-│
-├── 🔧 Hardware & EDA Toolchain
-│   ├── AMD Xilinx Vivado ML
-│   ├── Yosys Open Synthesis Engine
-│   ├── Siemens ModelSim / GTKWave
-│   ├── Icarus Verilog (iverilog)
-│   ├── GNU Radio Companion / ADALM-PLUTO SDR
-│   └── ESP32 Microcontrollers / Arduino
-│
-└── 🧩 Concepts & Engineering Patterns
-    ├── RTL Microarchitecture & Pipelining
-    ├── Clock Domain Crossing (CDC) Synchronization
-    ├── Weighted Round-Robin (WRR) Bus Arbitration
-    ├── Finite State Machines (FSMs) & UART Parsers
-    └── Real-Time 64-PSK DSP & SDR Modulation
-```
+<p align="center"><strong>Microcontrollers & Hardware Platforms</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM Cortex-M4" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Basys--3_(Artix--7_FPGA)-F15A24?style=flat-square" alt="Basys-3 FPGA" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+<p align="center"><strong>Peripherals & Communication Protocols</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/UART_%7C_SPI_%7C_I2C-1E88E5?style=flat-square" alt="UART SPI I2C" />
+  <img src="https://img.shields.io/badge/GPIO_%7C_ADC_%7C_PWM-2E7D32?style=flat-square" alt="GPIO ADC PWM" />
+  <img src="https://img.shields.io/badge/Timers_%26_Interrupts-43A047?style=flat-square" alt="Timers & Interrupts" />
+  <img src="https://img.shields.io/badge/Motor_Control_(L298N)-D48806?style=flat-square" alt="Motor Control" />
+  <img src="https://img.shields.io/badge/Sensor_Interfacing-1976D2?style=flat-square" alt="Sensor Interfacing" />
+</p>
+
+<p align="center"><strong>Development Tools & Design Software</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AMD_Vivado-E53935?style=flat-square" alt="Vivado" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" />
+  <img src="https://img.shields.io/badge/Cadence-CC0000?style=flat-square" alt="Cadence" />
+  <img src="https://img.shields.io/badge/Keil_uVision-1E88E5?style=flat-square" alt="Keil uVision" />
+  <img src="https://img.shields.io/badge/Proteus-009688?style=flat-square" alt="Proteus" />
+  <img src="https://img.shields.io/badge/MATLAB_%2F_Simulink-D9381E?style=flat-square" alt="MATLAB / Simulink" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/ModelSim_%2F_GTKWave-6A1B9A?style=flat-square" alt="ModelSim GTKWave" />
+</p>
+
+<p align="center"><strong>Technologies & Domains</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded_Systems-00ACC1?style=flat-square" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/FPGA_Prototyping-FF8F00?style=flat-square" alt="FPGA Prototyping" />
+  <img src="https://img.shields.io/badge/VLSI_Design-C0CA33?style=flat-square" alt="VLSI Design" />
+  <img src="https://img.shields.io/badge/CDC_Synchronization-7B1FA2?style=flat-square" alt="CDC" />
+  <img src="https://img.shields.io/badge/Adaptive_PID_Control-00BCD4?style=flat-square" alt="Adaptive PID" />
+  <img src="https://img.shields.io/badge/Machine_Learning-E91E63?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ──────────────
 
@@ -105,7 +145,14 @@ Work spans SystemVerilog SoC interconnect design, asynchronous FIFO clock-domain
 
 ──────────────
 
-### 04 / SYSTEM TELEMETRY
+### 04 / LATEST ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+──────────────
+
+### 05 / SYSTEM TELEMETRY
 
 <div align="center">
 
